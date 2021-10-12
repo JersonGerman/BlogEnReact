@@ -1,5 +1,5 @@
 
-const apiKey = "";
+const apiKey = "xOXi8fbbYbPBdsHjoUX2HBjPuH2NlrmH";
 
 const peticion = fetch(`http://api.giphy.com/v1/gifs/random?api_key=${apiKey}`);
 
